@@ -9,14 +9,12 @@ footer
 	height: 300px;
 	background: #585757;
 }
-<<<<<<< HEAD
+
 .container{
 	background-color: yellow;
-=======
-/*`Slider*/
-.slider
-{
+}
+
+.slider{
 	height: 500px;
 	background: #FFBABA;
->>>>>>> b3aaf5c358f3726242388bd423289aebcca03069
 }
